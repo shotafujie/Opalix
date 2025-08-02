@@ -1,0 +1,11 @@
+# Xcode/Swift
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcworkspace
+*.xcscmblueprint
+# macOS
+.DS_Store
+# Playground
+timeline.xctimeline
+playground.xcworkspace
